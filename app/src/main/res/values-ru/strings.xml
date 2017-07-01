@@ -3,4 +3,6 @@
     <string name="app_name">Калькулятор чаевых</string>
     <string name="amountLabel">Сумма</string>
     <string name="custom_tip_percentage">Свой %</string>
+    <string name="tip_label">Чаевые</string>
+    <string name="total_label">Всего</string>
 </resources>
