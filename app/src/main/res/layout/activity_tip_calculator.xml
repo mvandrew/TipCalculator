@@ -30,7 +30,9 @@
         android:layout_height="wrap_content"
         android:layout_columnSpan="2"
         android:layout_gravity="fill_horizontal"
+        android:background="?android:attr/colorPressedHighlight"
         android:padding="@dimen/textview_padding"
+        android:textAlignment="center"
         android:textAppearance="@android:style/TextAppearance.Material.Medium" />
 
     <TextView
